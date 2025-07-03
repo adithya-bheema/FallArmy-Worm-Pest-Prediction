@@ -1,0 +1,114 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Pest Risk Prediction of Indian States</title> 
+<style> 
+/*        
+Green agriculture-themed background */ 
+body { 
+font-family: Arial, sans-serif; 
+background: linear-gradient(to right, #D4EDDA, #A8E6CF); 
+color: #2F4F4F; 
+text-align: center; 
+padding: 20px; 
+} 
+/* Flexbox layout */  
+        .container { 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            gap: 40px; 
+            max-width: 900px; 
+            margin: auto; 
+        } 
+ 
+        /* Left: Image container with stacked images */ 
+        .image-container { 
+            display: flex; 
+            flex-direction: column; 
+            gap: 10px; /* Space between images */ 
+        } 
+ 
+        .image-container img { 
+            width: 350px; 
+            height: auto; 
+            border-radius: 10px; 
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); 
+        } 
+ 
+        /* Right: Form */ 
+        form { 
+            background: rgba(255, 255, 255, 0.9); 
+            padding: 20px; 
+            border-radius: 10px; 
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+            text-align: left; 
+            max-width: 400px; 
+            width: 100%; 
+        } 
+ 
+        label { 
+            font-size: 1.1em; 
+            font-weight: bold; 
+            color: #006400; 
+        } 
+ 
+        input { 
+            margin: 10px 0; 
+            padding: 10px; 
+            width: 90%; 
+            border: 1px solid #8FBC8F; 
+            border-radius: 5px; 
+            font-size: 1em; } 
+        button { 
+            width: 100%; 
+            padding: 12px; 
+            background-color: #4CAF50; 
+            color: white; 
+            font-size: 1.2em; 
+            font-weight: bold; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            transition: 0.3s; 
+        } 
+ 
+        button:hover { 
+            background-color: #45a049; 
+        } 
+    </style> 
+</head> 
+<body> 
+    <h1>Fall Armyworm Pest Risk Prediction</h1> 
+ 
+    <div class="container"> 
+        <!-- Left: Two stacked images --> 
+        <div class="image-container"> 
+            <img src="https://th.bing.com/th/id/OIP.aNyNKwoACNIB1PtjeqBxnQHaFj?rs=1&pid=ImgDetMain" alt="Pest Image 1"> 
+            <img src="https://th.bing.com/th/id/OIP.Jr7pxkVdi2JdPWcZLoHtdwHaE9?rs=1&pid=ImgDetMain" alt="Pest Image 2"> 
+        </div> 
+ 
+        <!-- Right: Form --> 
+        <form action="/predict" method="post"> 
+            <label for="wind_flow">🌬 Wind Flow (m/s):</label><br> 
+            <input type="number" id="wind_flow" name="wind_flow" step="0.1" required><br> 
+ 
+            <label for="rainfall">🌧 Rainfall (mm):</label><br> 
+            <input type="number" id="rainfall" name="rainfall" step="0.1" required><br> 
+ 
+            <label for="humidity">  Humidity (%):</label><br> 
+            <input type="number" id="humidity" name="humidity" step="0.1" required><br> 
+ 
+            <label for="temperature">🌡 Temperature (°C):</label><br> 
+            <input type="number" id="temperature" name="temperature" step="0.1" required><br> 
+ 
+            <label for="place">Place:</label><br> 
+            <input type="text" id="place" name="place" required><br> 
+ 
+            <button type="submit">Predict Risk</button>  
+        </form> 
+    </div> 
+</body> 
+</html>

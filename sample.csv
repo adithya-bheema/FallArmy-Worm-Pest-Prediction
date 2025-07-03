@@ -1,0 +1,301 @@
+Place,WindFlow,Rainfall,Humidity,Temperature,PestActivity,Latitude,Longitude
+Mizoram,4.3,57.8,83.6,15.8,High,23,93
+Punjab,1.8,251.4,55.9,26,Low,30.91667,75.41667
+Bihar,4.8,172,74.5,19.4,High,25.75,85.75
+Meghalaya,2.9,137.8,89.7,33.6,High,25.5,91.33333
+Andhra Pradesh,1.3,132.9,82.8,26.1,Low,15.83333,79.75
+Tamil Nadu,1.5,218.3,34.8,22.5,High,11,78.33333
+Bhutan,3.3,225,58.3,17.6,Low,27.5,90.5
+Tripura,4.6,164.2,60.7,17.6,Low,24,92
+West Bengal,4.1,133.7,57.6,40.5,Moderate,24,88
+Telangana,0.7,172,55.7,22.4,High,17.83333,79.08333
+Kerala,1.2,71.7,33.8,16.1,Low,10.41667,76.5
+Assam,1,228.5,85,25.1,Moderate,26,93
+Bangladesh,1.6,224.7,64.4,11.8,Moderate,24,90
+West Bengal,4.7,200.5,63.8,15.4,Moderate,24,88
+Bihar,2.4,211.1,82.9,10.1,Low,25.75,85.75
+Goa,0.7,71.1,68.6,16.5,High,15.33333,74.08333
+Gujarat,3.1,132.1,77.8,30.7,Low,23,71.75
+Maharashtra,2.7,290.2,74,32.4,Low,19.5,76
+Mizoram,0.9,187.6,88.9,25.5,High,23,93
+Goa,4.2,127.1,39.9,25.9,Moderate,15.33333,74.08333
+Myanmar,3.5,209.1,36.8,20.4,Low,21,96
+Bangladesh,1.1,233,51.3,35.1,High,24,90
+Delhi,3.9,128,51.5,30.2,High,22,79
+Bihar,1.7,103.6,75.1,16.7,Low,25.75,85.75
+Sikkim,1.8,199.5,45.3,23.3,Moderate,27.75,88.5
+Andhra Pradesh,3.5,84,60.4,16.9,Low,15.83333,79.75
+Goa,2.4,219.2,59.5,22.7,High,15.33333,74.08333
+Chhattisgarh,4,257.7,83.9,29.9,High,21.5,82
+Bangladesh,1.9,157.2,53,20.7,Low,24,90
+Sikkim,2.3,240.6,37.5,33.1,Moderate,27.75,88.5
+Uttarakhand,1.8,269.1,84.1,34.5,Moderate,30.25,79.25
+Himachal Pradesh,3.8,246.5,78.9,16.7,Moderate,31.91667,77.25
+Myanmar,2.3,171.5,51.6,26.1,Moderate,21,96
+Telangana,1.7,230.7,54.9,42.2,High,17.83333,79.08333
+Assam,2,121,71.8,26.7,Moderate,26,93
+Manipur,4.2,124.5,53.6,13.3,High,25,94
+Assam,3.9,197.6,53.3,14.7,Moderate,26,93
+Himachal Pradesh,1.7,69.7,40.4,11.7,High,31.91667,77.25
+Gujarat,2.4,291.6,44.3,28,Moderate,23,71.75
+Kerala,1.7,120.3,59.6,38.5,Moderate,10.41667,76.5
+Andhra Pradesh,1.5,205.9,58.9,26.8,Moderate,15.83333,79.75
+Bihar,3.4,258.2,38.3,14,Low,25.75,85.75
+Assam,0.7,236.9,76.5,11.7,Moderate,26,93
+Uttarakhand,2.4,99.1,63,33.1,Moderate,30.25,79.25
+Maharashtra,2.7,185.5,62.9,38.9,Moderate,19.5,76
+Tripura,1.2,108.4,89.6,42.5,Moderate,24,92
+Himachal Pradesh,2.8,85.3,83.5,11.9,High,31.91667,77.25
+Bihar,1.8,266.9,31.3,26,Moderate,25.75,85.75
+Myanmar,0.9,90.6,38.5,19.4,Low,21,96
+Pakistan,1.5,76.3,57.1,43,Low,30,70
+Rajasthan,4.3,75.5,59.2,13.8,High,26.58333,73.83333
+Tripura,2,166.5,67.8,40,High,24,92
+Bangladesh,1.2,254.6,58.6,36.8,High,24,90
+Gujarat,3.2,283.2,51.4,24.3,High,23,71.75
+Uttar Pradesh,2.5,196.8,56.9,24.9,Low,27.25,80.75
+Karnataka,5,231.3,46.6,16.4,Low,14.66667,75.83333
+Uttar Pradesh,3,50.4,83.6,21.2,High,27.25,80.75
+Manipur,4,139.7,65.2,36,Moderate,25,94
+Sri Lanka,3,201.9,81.7,36.7,High,7.75,80.75
+Telangana,5,131.6,81.7,13.1,Moderate,17.83333,79.08333
+West Bengal,2.6,127.8,89.2,12.7,Low,24,88
+Sri Lanka,3.2,171,81.5,25.3,High,7.75,80.75
+Arunachal Pradesh,3,183.2,86.7,15.9,Moderate,27.06,93.37
+Manipur,3.4,87.8,52.7,19.3,High,25,94
+Meghalaya,1.1,220.5,74.5,19,Low,25.5,91.33333
+Mizoram,5,86,51.2,39.2,High,23,93
+Kerala,3.9,73.6,40.1,44.2,Low,10.41667,76.5
+Andhra Pradesh,0.6,105.8,55.1,19.8,High,15.83333,79.75
+Rajasthan,5,264,57.7,37.4,High,26.58333,73.83333
+Madhya Pradesh,3.2,75,47.4,22.7,High,23.5,78.5
+Meghalaya,4,132.5,66.3,22.9,High,25.5,91.33333
+Gujarat,0.6,243.9,62.8,26.4,High,23,71.75
+Nagaland,1.6,105.2,74.2,29.4,High,26.08333,94.5
+Chhattisgarh,2.5,80.8,73,10.2,Moderate,21.5,82
+Myanmar,1.1,134.9,36.3,45,Low,21,96
+Delhi,3.4,64,59.2,21.2,Low,22,79
+Sikkim,2.7,88.7,54.5,25.6,High,27.75,88.5
+Sikkim,0.9,196.8,82.6,32,High,27.75,88.5
+Rajasthan,2.7,126.6,35.6,12,Moderate,26.58333,73.83333
+Delhi,1.5,139.4,70.2,41.2,High,22,79
+Telangana,2.7,256.4,89.7,38.9,High,17.83333,79.08333
+Nagaland,4.2,258.6,66.9,20,Moderate,26.08333,94.5
+Nagaland,2.9,157.3,62.7,40.9,High,26.08333,94.5
+Uttarakhand,2.7,92.3,61.8,31.7,Moderate,30.25,79.25
+Bihar,3.6,86.8,84.1,41.7,High,25.75,85.75
+Uttar Pradesh,2.4,216.6,82,18.8,Moderate,27.25,80.75
+Uttar Pradesh,4.3,264.5,37.1,41.4,Low,27.25,80.75
+Kerala,0.6,51.7,88.6,39.2,Moderate,10.41667,76.5
+Karnataka,1.5,100.9,69.1,40.6,Moderate,14.66667,75.83333
+Andhra Pradesh,0.7,119.5,76.1,16.2,High,15.83333,79.75
+Sri Lanka,1.6,183.7,61.7,43.5,High,7.75,80.75
+Telangana,3.2,219.5,76.6,13.2,Moderate,17.83333,79.08333
+Meghalaya,0.5,267.9,62.8,26.2,Moderate,25.5,91.33333
+Meghalaya,2.1,92.9,90,18.3,Low,25.5,91.33333
+Jharkhand,1,265.8,72.1,40.3,High,23.75,85.5
+West Bengal,2.3,102.7,76.3,28.4,Moderate,24,88
+Maharashtra,1.9,65,48.6,17.1,Low,19.5,76
+Pakistan,3.8,212.4,44,42.5,High,30,70
+Karnataka,4.6,201.5,85.9,28.7,Moderate,14.66667,75.83333
+Uttarakhand,3.7,250.8,85.7,19.9,Low,30.25,79.25
+Odisha,2.7,218.4,48.4,34.1,High,20.5,84.41667
+Odisha,4.9,278.5,32.9,25.3,High,20.5,84.41667
+Uttarakhand,3.6,142.6,84.4,42,Low,30.25,79.25
+Karnataka,1.1,137.8,43.1,36.8,High,14.66667,75.83333
+Punjab,2.4,163.1,73,44.3,High,30.91667,75.41667
+Assam,2.3,160.1,30.7,25.1,Moderate,26,93
+Uttar Pradesh,4.9,274.9,50.8,27.7,High,27.25,80.75
+Maharashtra,1.2,280.3,37.7,25.3,Moderate,19.5,76
+Delhi,4.7,63.9,36,21.3,High,22,79
+Telangana,2.5,83.2,81,33.9,Moderate,17.83333,79.08333
+Pakistan,2.7,81.5,34.3,44.8,Low,30,70
+Nepal,3.9,161.4,62.4,27.4,Low,28,84
+Punjab,4.7,146.5,46.3,42.9,Low,30.91667,75.41667
+Assam,3.8,122.6,32.6,20.2,Low,26,93
+Pakistan,4.4,90.6,61.3,29.7,Low,30,70
+Sri Lanka,1.3,248.6,34.3,25.9,Moderate,7.75,80.75
+Tripura,2.7,218.8,40.7,19.9,Low,24,92
+Tripura,2.1,133.3,66.8,10.8,High,24,92
+Maharashtra,4.1,266.1,81.6,22,Moderate,19.5,76
+Karnataka,4.9,187.8,44.6,12.7,High,14.66667,75.83333
+Uttar Pradesh,1.4,143.3,62.1,31,Moderate,27.25,80.75
+Uttar Pradesh,2.4,134.3,49.2,28.1,Low,27.25,80.75
+Karnataka,1.7,122.7,73.2,37.3,Moderate,14.66667,75.83333
+Nepal,1.6,122.2,32.3,17.8,Low,28,84
+Telangana,4.8,51.7,48.6,15.1,High,17.83333,79.08333
+Punjab,4.7,280,50.4,44.7,High,30.91667,75.41667
+Odisha,2.3,235.8,41,16.3,High,20.5,84.41667
+Chhattisgarh,2.4,106.3,76.6,29.7,Moderate,21.5,82
+Sikkim,2.7,223,36.2,10.2,Moderate,27.75,88.5
+Maharashtra,4.7,128.7,48.8,30.1,Low,19.5,76
+Tripura,1,97.7,55.6,24.5,Low,24,92
+Sri Lanka,2.2,82,68.5,37,Low,7.75,80.75
+Gujarat,4.5,152,45,44.1,High,23,71.75
+Uttar Pradesh,1.8,277.8,34.3,14.5,High,27.25,80.75
+Manipur,3.2,128.9,73.5,41.8,Low,25,94
+Madhya Pradesh,1.9,113.5,41,45,Moderate,23.5,78.5
+Karnataka,4.4,142,85,40.5,High,14.66667,75.83333
+Delhi,4.8,241,78.3,27.8,Low,22,79
+Bihar,2.4,140.3,76.9,29.2,Moderate,25.75,85.75
+Nagaland,2.1,231.2,49.5,24.4,Low,26.08333,94.5
+Assam,4.4,151.9,87.3,25.3,High,26,93
+Sri Lanka,3,169.3,61.6,43.9,Moderate,7.75,80.75
+Odisha,2.2,142.8,68,10.1,Low,20.5,84.41667
+Chhattisgarh,3.8,129.6,44.7,42,Moderate,21.5,82
+Chhattisgarh,1.3,265.3,42.5,10.7,High,21.5,82
+Arunachal Pradesh,4.2,185.9,67.7,30.5,Low,27.06,93.37
+Himachal Pradesh,1.1,62.4,70.2,41,Moderate,31.91667,77.25
+Myanmar,3.2,157.1,55,26.6,Moderate,21,96
+Sri Lanka,4.4,243,36.1,42.7,Moderate,7.75,80.75
+Meghalaya,2.6,236.7,71.3,17.3,Low,25.5,91.33333
+Assam,1.1,290.5,44.9,13.4,High,26,93
+West Bengal,2.7,222.3,84.8,39.5,High,24,88
+Karnataka,3.2,58,57.7,39.3,Low,14.66667,75.83333
+Rajasthan,2.2,131.4,55,34.8,Moderate,26.58333,73.83333
+Myanmar,2.1,250.2,44,23.7,Moderate,21,96
+Arunachal Pradesh,3.5,216.1,43.3,25.2,Low,27.06,93.37
+Sikkim,3.3,155.4,62.2,32.7,Moderate,27.75,88.5
+Meghalaya,3.6,175.8,72.9,43.5,Moderate,25.5,91.33333
+Pakistan,4.3,169.9,73.3,34.3,High,30,70
+Bhutan,2.7,143.4,52.6,18.6,High,27.5,90.5
+Bhutan,1,238.3,72.1,37.1,High,27.5,90.5
+Goa,3.5,177,86.3,40.6,Moderate,15.33333,74.08333
+Punjab,1.5,286.8,50.9,17.3,High,30.91667,75.41667
+Odisha,2.9,98.2,61.5,35,Moderate,20.5,84.41667
+Sri Lanka,0.7,83.2,89,39.7,Low,7.75,80.75
+Gujarat,2.5,209.3,83.2,33,Low,23,71.75
+Jharkhand,4.9,190,68.2,28.1,Moderate,23.75,85.5
+Gujarat,3.7,182.6,57.9,24.2,Moderate,23,71.75
+Maharashtra,1.4,104.5,86.5,26,Low,19.5,76
+Tripura,1.3,117.5,85.3,21.4,High,24,92
+West Bengal,1.8,240.4,87.7,26.6,Moderate,24,88
+Andhra Pradesh,2.9,243.5,30.3,44.6,High,15.83333,79.75
+Bihar,2.6,114,89,32.4,Low,25.75,85.75
+Meghalaya,4.6,265.4,49.1,39.7,High,25.5,91.33333
+Meghalaya,1.8,213.9,82.9,17,Low,25.5,91.33333
+Nagaland,2,275.7,30.2,18.9,Moderate,26.08333,94.5
+Manipur,4.6,240.6,59,32.1,High,25,94
+Bhutan,3.3,99.6,30.7,39.3,Low,27.5,90.5
+Assam,2,102.1,65.3,20,Moderate,26,93
+Kerala,4.1,216.2,59.1,15.3,High,10.41667,76.5
+Arunachal Pradesh,3,251.7,47.2,43.9,Moderate,27.06,93.37
+Uttarakhand,3.9,210.1,79.2,44.1,High,30.25,79.25
+Chhattisgarh,3,86.1,79.7,27.9,Moderate,21.5,82
+Uttar Pradesh,2.2,297.9,59.5,26.4,High,27.25,80.75
+Assam,1.4,75.7,75.8,32.7,High,26,93
+Mizoram,4.7,129.5,78.1,28.4,Low,23,93
+Maharashtra,1.4,107.1,52.5,21,High,19.5,76
+Karnataka,3.1,73.5,76,44.2,High,14.66667,75.83333
+Sri Lanka,0.7,288.7,79.8,24.7,Low,7.75,80.75
+Arunachal Pradesh,3,227.3,50.1,11.8,Moderate,27.06,93.37
+West Bengal,2.9,90.5,71.5,25.3,High,24,88
+Uttar Pradesh,3.2,84,75.5,19.2,High,27.25,80.75
+Nepal,3.3,114.1,49.6,14.5,Moderate,28,84
+Karnataka,1.1,285.5,66.4,44.4,High,14.66667,75.83333
+Arunachal Pradesh,1.3,254.4,34.2,34.8,Moderate,27.06,93.37
+Manipur,0.7,117.2,83.9,18.1,High,25,94
+Bhutan,1,273.8,31.1,10.9,Moderate,27.5,90.5
+Bhutan,1.6,213.7,46.6,26.5,Moderate,27.5,90.5
+Arunachal Pradesh,2.8,292,30.1,29.5,Low,27.06,93.37
+Arunachal Pradesh,0.7,71.7,47.3,20.2,High,27.06,93.37
+Bangladesh,1.5,228,74.3,23,High,24,90
+Maharashtra,0.8,133.4,48.9,32.1,Low,19.5,76
+Myanmar,4.6,122.5,39.4,22.3,Low,21,96
+Myanmar,2,223.5,63.6,36,High,21,96
+Madhya Pradesh,2,115.4,70.3,13,High,23.5,78.5
+Delhi,3.6,196.7,71.2,11.4,Low,22,79
+West Bengal,2.8,74.4,49.1,17.6,Low,24,88
+Uttar Pradesh,2.2,195.2,49.5,15.1,Moderate,27.25,80.75
+Bihar,4.1,190.7,69.7,25.6,Low,25.75,85.75
+Jharkhand,1,61.8,72.8,34.5,High,23.75,85.5
+Odisha,0.6,102.6,53.2,37.5,Moderate,20.5,84.41667
+Odisha,3.4,99,58.2,44.8,Low,20.5,84.41667
+Tripura,2.1,95.9,72,16.3,Low,24,92
+Telangana,4.3,243.6,42.9,18.8,Moderate,17.83333,79.08333
+Uttar Pradesh,2.7,151.1,83.8,10.6,Low,27.25,80.75
+Meghalaya,1.5,229.5,44.2,44.4,High,25.5,91.33333
+Delhi,3.4,172.8,40.2,12.9,Low,22,79
+Chhattisgarh,3.4,87.6,33.9,22,Low,21.5,82
+Pakistan,0.5,208,37.4,26.6,High,30,70
+Assam,3.6,75.8,85.5,40.3,Moderate,26,93
+West Bengal,4,249.5,47.2,10.5,Low,24,88
+Madhya Pradesh,1.4,63.8,41.4,14.8,Low,23.5,78.5
+Bihar,4.3,186.3,51.2,15.3,Moderate,25.75,85.75
+Tamil Nadu,4.8,277.4,34.6,20.5,Low,11,78.33333
+West Bengal,4.3,280,56.9,32.5,Moderate,24,88
+Tripura,1.3,272.3,44.9,23.8,Moderate,24,92
+Pakistan,3.9,66.3,84.9,29,Low,30,70
+Punjab,3.3,229.6,69.6,35.6,High,30.91667,75.41667
+Odisha,3.9,72,52,20,Moderate,20.5,84.41667
+Sri Lanka,2.5,53.7,64.6,38.3,Moderate,7.75,80.75
+Chhattisgarh,3.1,214.5,73.5,12.7,Low,21.5,82
+Odisha,1.6,70.9,38.6,37.5,Moderate,20.5,84.41667
+Uttar Pradesh,4.3,86.4,72,17.1,Low,27.25,80.75
+Bihar,1.6,72.7,72.9,23,Low,25.75,85.75
+Sri Lanka,3.3,296,62.2,22.8,Low,7.75,80.75
+Bhutan,1,64.3,72.6,41,Moderate,27.5,90.5
+Assam,0.6,90.4,36.7,21.2,High,26,93
+Punjab,1.3,291.2,57.7,26.8,Moderate,30.91667,75.41667
+Nagaland,2.7,154.4,46.5,36.7,Low,26.08333,94.5
+Sri Lanka,4.2,176.9,64.8,43.1,High,7.75,80.75
+Nagaland,3.4,137.9,34.6,43.1,High,26.08333,94.5
+Bhutan,3,114.6,70,40,Low,27.5,90.5
+Mizoram,3.9,175.5,76.2,40.8,High,23,93
+Arunachal Pradesh,4.4,150.8,86.4,12.8,Moderate,27.06,93.37
+Manipur,1.2,279,32.6,16.2,Low,25,94
+Uttar Pradesh,2.5,263.3,54.4,22.6,High,27.25,80.75
+Delhi,S,257.7,71.6,11,Low,22,79
+Jharkhand,4.2,149.6,87.4,27.9,High,23.75,85.5
+Sri Lanka,0.8,81.6,87.9,27.1,Low,7.75,80.75
+Uttarakhand,0.7,230.6,55.3,22.2,Moderate,30.25,79.25
+Kerala,3.9,169.2,80.1,12.1,Moderate,10.41667,76.5
+Pakistan,4.8,66.8,46,30.3,Moderate,30,70
+Himachal Pradesh,4,265.5,74.4,25.9,High,31.91667,77.25
+Arunachal Pradesh,0.5,157.1,55.3,23.7,Low,27.06,93.37
+Mizoram,4.9,87.3,85.6,27.2,High,23,93
+Uttar Pradesh,2.8,106.4,42,31.8,High,27.25,80.75
+Delhi,2.8,58.9,31.4,10.3,Low,22,79
+Madhya Pradesh,4,163.4,47.3,36.5,Moderate,23.5,78.5
+Karnataka,2.8,193.2,46,33.8,High,14.66667,75.83333
+Jharkhand,4.8,95.1,84.8,15.4,High,23.75,85.5
+Rajasthan,4.2,99,37.5,14.4,Low,26.58333,73.83333
+Bhutan,3.7,50.3,56.9,40.8,Moderate,27.5,90.5
+Tripura,3.5,150.9,59.4,11.9,High,24,92
+Pakistan,1.5,139,82.3,12.5,Low,30,70
+Jharkhand,1.7,95.4,66.2,29.6,High,23.75,85.5
+Arunachal Pradesh,4.6,90.2,56,28.7,Low,27.06,93.37
+Arunachal Pradesh,3.5,154.2,80.9,38.8,Low,27.06,93.37
+Mizoram,3.4,88,39.7,16.5,High,23,93
+Delhi,4.6,110.3,74.1,21.2,Low,22,79
+Himachal Pradesh,2.7,90.8,52,15.3,High,31.91667,77.25
+Bangladesh,3.3,285.3,67.1,11.4,High,24,90
+Rajasthan,1.9,63.7,85.4,13.2,Low,26.58333,73.83333
+Mizoram,2.4,130.7,83.4,10.4,Moderate,23,93
+West Bengal,4.2,230.3,74.3,29.3,High,24,88
+Uttar Pradesh,1,120.4,55.2,13,Moderate,27.25,80.75
+Mizoram,4.7,257.2,34.7,19.8,High,23,93
+Bhutan,0.8,55.3,76.4,38,Low,27.5,90.5
+Rajasthan,1.9,78.2,40,19.1,High,26.58333,73.83333
+Meghalaya,1.7,256.9,57.5,14.5,Low,25.5,91.33333
+Bhutan,3.4,180.4,37.2,26.7,Low,27.5,90.5
+Delhi,2.9,277.8,63.3,21,Moderate,22,79
+Bihar,3,79.2,67.9,41.8,Low,25.75,85.75
+Nagaland,1.5,67.9,62.1,19.8,Low,26.08333,94.5
+Arunachal Pradesh,3.7,259.1,59.7,39.5,High,27.06,93.37
+Meghalaya,4.1,158.1,82.7,29.8,Low,25.5,91.33333
+Pakistan,0.7,248,46.3,44,Moderate,30,70
+Pakistan,3.3,108.3,84.7,24,Low,30,70
+Karnataka,3.4,249.9,45.9,22,Low,14.66667,75.83333
+Myanmar,0.7,137.8,44,20.3,High,21,96
+Bangladesh,4.6,89.4,63.6,30.8,Low,24,90
+Tripura,1.6,91.3,76.3,43.7,High,24,92
+Punjab,4,246.2,70.9,12.2,Moderate,30.91667,75.41667
+Assam,1.8,132.4,61.3,13.3,High,26,93
+Bangladesh,2.8,263.4,36.9,19.6,Low,24,90
+Rajasthan,3.4,109.1,89.3,39.3,Moderate,26.58333,73.83333
+Gujarat,2.4,300,69,18.7,Moderate,23,71.75
+Assam,0.9,248.7,77.6,43.7,Low,26,93
+Goa,3.2,64.1,49,12.5,High,15.33333,74.08333
+Arunachal Pradesh,3.8,87.9,69.2,40.5,Moderate,27.06,93.37
+Assam,4.8,273.8,39.7,39.9,Moderate,26,93
