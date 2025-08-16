@@ -1,0 +1,11 @@
+Flask
+pandas
+scikit-learn
+numpy
+matplotlib
+geopandas
+
+
+Install dependencies with:
+```bash
+pip install -r requirements.txt
