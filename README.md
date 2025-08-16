@@ -29,7 +29,6 @@ numpy
 matplotlib
 geopandas
 
-````
 
 Install dependencies with:
 ```bash
